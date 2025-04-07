@@ -1,0 +1,17 @@
+*.db
+__pyscache__
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+*.egg
+*.log
+*.sqlite3
+*.sqlite
+*.db-journal
+*.DS_Store
+*.env
+*.env.*
+*.coverage
+*.cover
+*.hypothesis
